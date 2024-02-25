@@ -1,0 +1,241 @@
+* {
+    box-sizing: border-box;
+}
+
+  
+body {
+    font-family: Arial;
+    background-color: #3c5077;
+}
+.container {
+    margin: 20px auto;
+    width: 1000px;
+    height: 700px;
+    background-color: rgb(245, 245, 245);
+    padding: 15px;
+}
+.container .menuButton .caseButtons{
+    background-color: #3c5077;
+    display: block;
+    width: 80%;
+    pad: 10px 15px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-size: 19px;
+    cursor: pointer;
+    border-style: double;
+    border-radius: 10px 10px;
+    margin: auto;
+    margin-top: 20px;
+    font-size: 18px;
+    
+}
+
+.container .menuButton .randomCaseButton {
+    background-color: #3c5077;
+    display: block;
+    width: 50%;
+    pad: 10px 15px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-size: 19px;
+    cursor: pointer;
+    border-style: double;
+    border-radius: 10px 10px;
+    margin: auto;
+    margin-top: 50px;
+    
+}
+
+.quiz-con {
+    margin: 0px auto;
+    width: 820px;
+    background-color: rgb(245, 245, 245);
+    padding: 15px;
+}
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.quiz-con .quiz-info {
+    display: flex;
+    background-color: white;
+    padding: 20px;
+}
+
+.quiz-con .quiz-info .category {
+    flex: 1;
+}
+.quiz-con .quiz-info .count {
+    flex: 1;
+    text-align: center;
+}
+.quiz-con .quiz-area {
+    background-color: white;
+    width: 800px;
+    padding: 20px;
+    margin-top: 15px;
+
+}
+.quiz-con .quiz-area #image{
+    width: 750px;
+    height: 450px;
+    margin: auto;
+    
+}
+.quiz-con .quiz-area h3 {
+    font-size: 14px;
+    text-align: justify;
+    margin: 20px auto;
+}
+.quiz-con .quiz-area #questionText {
+    font-size: 16px;
+    margin: auto 250px;
+    width: 400px;
+    
+}
+.quiz-con .answer-area {
+    width: 800px;
+    background-color: white;
+    padding: 20px;
+}
+.quiz-con .answer-area .answer{
+    background-color: wheat;
+    padding: 15px;
+    display: block;
+    margin: 5px auto;
+    border-radius: 10px 10px;
+}
+
+.quiz-con .answer-area .answer:not(:last-child) {
+    border-bottom: 1px solid white;
+}
+.quiz-con .answer-area .answer input[type="Radio"]:checked + label{
+    color: darkcyan;
+}
+.quiz-con .quiz-area .answer label {
+    cursor: pointer;
+    font-weight: bold;
+    color: #777;
+    font-size: 14px;
+    margin-left: 5px;
+    position: relative;
+    top: -1px;
+}
+
+
+.quiz-con #submit-button {
+    background-color: #3c5077;
+    display: block;
+    width: 20%;
+    pad: 10px 15px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-size: 19px;
+    cursor: pointer;
+    border-style: double;
+    border-radius: 10px 10px;
+    margin: 0px 600px;
+    display: inline;
+    margin: 0px;
+}
+.quiz-con #back-button {
+    background-color: #3c5077;
+    display: block;
+    width: 20%;
+    pad: 10px 15px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-size: 19px;
+    cursor: pointer;
+    border-style: double;
+    border-radius: 10px 10px;
+    display: inline;
+    margin: 0px 469px 0px 0px;
+}
+.shuffle-button {
+    background-color: #3c5077;
+    display: block;
+    width: 50%;
+    pad: 10px 15px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-size: 19px;
+    cursor: pointer;
+    border-style: double;
+    border-radius: 10px 10px;
+    margin: auto;
+}
+.quiz-con #submit-button:focus {
+    outline: none;
+}
+.quiz-con .step {
+    margin: 10px 10px 0px;
+}
+.quiz-con .quiz-area #finish-text {
+    
+    
+    color: teal;
+}
+
+@media only screen and (max-width: 700px) {
+     body {
+        max-zoom: 0.75;
+     }
+    .container {
+        width: 90%;
+        height: 90%;
+    }
+    .container .menuButton .caseButtons{ 
+        width: 95%;
+        font-size: 16px;
+        margin-top: 20px;
+    }
+
+    .quiz-con {    
+        width: auto;
+        margin: auto;            
+    }
+    .quiz-con .quiz-info {
+        width: auto;
+    }
+    .quiz-con .quiz-area {
+        width: auto;
+        
+    }
+    .quiz-con .answer-area {
+        width: auto;
+        
+    }
+    .quiz-con .quiz-area #image {
+        width: 325px;
+        height: 200px;
+        
+        
+    }
+    .quiz-con .quiz-area h3 {
+        font-size: 14px;
+        margin-right: 15px;
+        
+    }
+    .quiz-con .quiz-area #questionText {
+        font-size: 14px;
+        margin: auto;
+        width: auto;
+    }
+    .quiz-con #submit-button {
+        margin: 0px;
+    }
+    .quiz-con #back-button { 
+        margin: 0px 200px 0px 0px;
+    }
+
+
+}

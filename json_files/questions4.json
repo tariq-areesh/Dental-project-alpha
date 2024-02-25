@@ -1,0 +1,93 @@
+[
+    {
+        "title": "Hussain who is 14 years old came to you with his father complaining from discomfort because of broken tooth (#22) and lip laceration.",
+        "question": "what will be your first step?",
+        "answer1": "A.Suturing the wound immediately, then taking the medical history",
+        "answer2": "B.take the chief complaint and history of injury",
+        "answer3": "C.take radiographs",
+        "rightAnswer": "B.take the chief complaint and history of injury",
+        "correctAnswerMessage": "Correct! \n(when? Where?how?)",
+        "wrongAnswer1": "medical history will be after chief complaint and the suturing after tooth managemen",
+        "wrongAnswer2": "",
+        "wrongAnswer3": "radiographs will be after case history and clinical examination"
+        
+        
+
+    },
+    {
+        
+        "title": "Hussain said that he was playing football in front of his grandmother house and his friend accidentally shot him in his face 30 min ago. Also he said that he search for the broken fragment of his #22 tooth but he didn’t found it.",
+        "question": "what will you do next?",
+        "answer1": "A.Take a radiographs",
+        "answer2": "B.Clinical examination including percussion, mobility, pulp sensibility & vitality test.",
+        "answer3": "C.Since he came to the health clinic, we have to transfer him to a hospital immediately",
+        "rightAnswer": "B.Clinical examination including percussion, mobility, pulp sensibility & vitality test.",
+        "wrongAnswer1": "radiographs will be after clinical examination",
+        "wrongAnswer2": "",
+        "wrongAnswer3": "you have to manage the case immediately"
+        
+    },
+    {
+        
+        "title": "After you did the clinical examination for tooth #22, you saw that there’s pulp exposure that is sensitive to stimuli, no tenderness, normal mobility and percussion. The pulp sensibility test was positive . and 2/3 of the crown remain.",
+        "question": "What will you do next?",
+        "answer1": "A.Take 1 PA radiograph",
+        "answer2": "B.Take 1 PA radiograph and 2 angulated PA",
+        "answer3": "C.Take the 1 PA radiograph in addition to lip radiograph",
+        
+        "rightAnswer": "C.Take the 1 PA radiograph in addition to lip radiograph",
+        "wrongAnswer1": "there’s missing fragment and lip laceration and that t makes us suspect that the fragment is in the lip",
+        "wrongAnswer2": "Additional radiographs are indicated if signs or symptoms of other potential injuries are present",
+        "wrongAnswer3": ""
+        
+
+    },
+    
+    {
+        
+        "question": "After clinical examination and radiograph what is your diagnosis?",
+        "answer1": "A.Pulp exposure",
+        "answer2": "B.Uncomplicated crown fracture (enamel- dentin fracture)",
+        "answer3": "C.Complicated crown fracture",
+        
+        "rightAnswer": "C.Complicated crown fracture",
+        "wrongAnswer1": "incomplete diagnosis",
+        "wrongAnswer2": "there’s pulp exposure",
+        "wrongAnswer3": ""
+        
+
+    },
+    {
+        
+        "question": "What will be your management?",
+        "answer1": "A.preserve pulp vitality by pulp capping or partial pulpotomy using MTA or Calcium hydroxide compounds followed by restoration",
+        "answer2": "B.disinfect the area with saline then restored the tooth with composite",
+        "answer3": "C.Crown.",
+        
+        "rightAnswer": "A.preserve pulp vitality by pulp capping or partial pulpotomy using MTA or Calcium hydroxide compounds followed by restoration",
+        "wrongAnswer1": "",
+        "wrongAnswer2": "there’s pulp exposure so you must preserve the pulp vitality",
+        "wrongAnswer3": "unless it’s large fracture more than half of the tooth, RCT and post then crown should be the treatment"
+        
+
+    },
+
+    {
+        
+        "question": "What next?",
+        "answer1": "A.follow up after 2 weeks",
+        "answer2": "B.follow up after 6 weeks,3 months,6 months then after a year.",
+        "answer3": "C.no follow up is needed. ",
+        
+        "rightAnswer": "B.follow up after 6 weeks,3 months,6 months then after a year.",
+        "wrongAnswer1": "try again",
+        "wrongAnswer2": "",
+        "wrongAnswer3": "try again"
+        
+
+    },
+    
+    {
+      "image": "images/Screenshot 2023-01-09 004122.png"
+    }
+]

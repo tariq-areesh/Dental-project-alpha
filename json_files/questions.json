@@ -1,0 +1,87 @@
+[
+    {
+        "title": "Somia is a 8 years old patient came to your clinic with her mother complaining from a traumatic injury caused by bumping or hitting her face into the door handle.",
+        "question": "1-what will be your first step?",
+        "answer1": "A.take his medical history",
+        "answer2": "B.take the chief complaint and history of injury",
+        "answer3": "C.take radiographs",
+        "rightAnswer": "B.take the chief complaint and history of injury",
+        "correctAnswerMessage": "Correct! \n(when? Where?how?)",
+        "wrongAnswer1": " medical history will be after chief complaint",
+        "wrongAnswer2": "do that",
+        "wrongAnswer3": "radiographs will be after case history and clinical examination"
+        
+        
+
+    },
+    {
+        
+        "title": "The mother said that trauma happened in his house before 30 minutes while she was running with her sister. She mentioned that she’s medically healthy and fit, her immunization status up to date. ",
+        "question": "2-what will you do next?",
+        "answer1": "A. Refer him to endodontist ",
+        "answer2": "B. Take a radiographs",
+        "answer3": "C. Clinical examination including percussion ,mobility, pulp sensibility & vitality test",
+        "rightAnswer": "C. Clinical examination including percussion ,mobility, pulp sensibility & vitality test",
+        "wrongAnswer1": "you have to manage the case immediately",
+        "wrongAnswer2": "radiographs will be after clinical examination",
+        "wrongAnswer3": "do this and that"
+        
+    },
+    {
+        
+        "title": "According to the clinical examination there is no evidence of laceration, facial swelling or bone fracture.Tooth 21 looks missing clinically",
+        "question": "3-What will you do next to reach the diagnosis ?",
+        "answer1": "A.Take 1 PA radiograph",
+        "answer2": "B.Take 1 PA radiograph,2 angulated PA and occlusal radiograph",
+        "answer3": "C.Take the 1 PA radiographs and occlusal radiograph",
+        
+        "rightAnswer": "B.Take 1 PA radiograph,2 angulated PA and occlusal radiograph",
+        "wrongAnswer1": "you need 2 another PA and occlusal radiograph to exclude any other type of dental trauma",
+        "wrongAnswer2": "do that",
+        "wrongAnswer3": "you need 2 another PA to exclude any other type of dental trauma"
+        
+
+    },
+    {
+        
+        "question": "4-After you done with the clinical and radiographic examination what is your diagnosis?",
+        "answer1": "A. Lateral laxation ",
+        "answer2": "B. Extrusion",
+        "answer3": "C. Intrusion",
+        "rightAnswer": "C. Intrusion",
+        "wrongAnswer1": "tooth displacement was within the long axis of the tooth",
+        "wrongAnswer2": "the tooth displaced apically",
+        "wrongAnswer3": "do this and that"
+        
+
+    },
+    {
+        
+        "question": "What is the proper management for this case?",
+        "answer1": "A. Allow re-eruption without intervention",
+        "answer2": "B. Reposition orthodontically or surgically",
+        "answer3": "C. Reposition surgically followed by root canal treatment (the pulp almost always becomes necrotic that’s why RCT should be started at 2 weeks)",
+        
+        "rightAnswer": "C. Reposition surgically followed by root canal treatment (the pulp almost always becomes necrotic that’s why RCT should be started at 2 weeks)",
+        "wrongAnswer1": "C. Reposition surgically followed by root canal treatment (the pulp almost always becomes necrotic that’s why RCT should be started at 2 weeks)",
+        "wrongAnswer2": "tooth has closed apex and intruded more than 7mm",
+        "wrongAnswer3": "do this and that"
+        
+
+    },
+    {
+        
+        "question": "What is your protocol for following up?",
+        "answer1": "A. After 2 weeks. ",
+        "answer2": "B. After 2, 4, 8, 12 weeks. ",
+        "answer3": "C. After 2, 4, 8, 12wk, 6 months, 1y, 5y ",
+        
+        "rightAnswer": "C. After 2, 4, 8, 12wk, 6 months, 1y, 5y ",
+        "wrongAnswer1": "wrong",
+        "wrongAnswer2": "wrong",
+        "wrongAnswer3": ""
+        
+
+    }
+    
+]
